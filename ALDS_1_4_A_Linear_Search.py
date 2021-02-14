@@ -41,5 +41,4 @@ for et in t:
         i += 1
     count = count + 1 if i != n else count
 
-
 print(count)
